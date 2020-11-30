@@ -1,14 +1,18 @@
-# Data Extraction using Machine Learning and Pattern Recognition
+# Data Extraction using Machine Learning 
 
-* Authors:
-* Created on 05/22/2019
-* Project Sponsors: Luca Blanzuoli, Aplesh Patel, and Noel Ramos from Global Markets Process Automation
+## Description
 
-## Current State of Play
-
-Converting unstructured data into structure data is at the basis of cognitive automation. Generally we receive a large variety of data set from our clients in different formats and shapes. Ultimately for humans or robotic processes to take action, relevant information must be extracted and organized
+In today's modern world converting unstructured data to a structured data is really a challenge. So, here in this project we tried to use the techniques of Machine Learning and Natural Language Processing to extract data. Then we converted the structured data from pdf, doc, etc to srtuctured data.
 
 
 ## About the Project
 
 In this project, we are able to convert an unstructured pdf into an organized set of data. We then apply machine learning to train the model that can best the extract data.
+
+## Steps to run the files:
+1. Clone the repository on your local computer.
+2. Open main.py file. (Spyder Version 4 is recommended)
+3. The data is located in the data sub-folder.
+
+## Result
+Our Machine Learning model acquired a very high accuracy.
